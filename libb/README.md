@@ -2,6 +2,7 @@
 ---
 hide:
 b programming
+---
 README.md start
 # libb - The Standard Library of B
 
