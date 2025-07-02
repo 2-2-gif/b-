@@ -1,7 +1,6 @@
 ---
 hide:
- -b
- -b programming
+-b programming
 ---
 # libb - The Standard Library of B
 
