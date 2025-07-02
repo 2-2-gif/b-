@@ -1,8 +1,7 @@
-- code:
+- code space:
 ---
 hide:
--b programming
----
+b programming
 README.md start
 # libb - The Standard Library of B
 
