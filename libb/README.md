@@ -1,7 +1,9 @@
+- code:
 ---
 hide:
 -b programming
 ---
+README.md start
 # libb - The Standard Library of B
 
 Here we describe the bare minium of the functionality that libb must provide. It may provide more on some platforms if necessary.
